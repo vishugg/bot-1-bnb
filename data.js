@@ -2,7 +2,7 @@
 
 mongoLink:'mongodb+srv://nft:vishu@paid1.qldpv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',//database link
 
-bot_token:'1994614738:AAH7wdQLNS0608_xZ7jdJeCzZOmraKepqug',//bot token
+bot_token:'2034681847:AAE3P9YDg6XjSZXReHvi7W001Fs52h3qkx8',//bot token
 
 bot_name:'LTC_HYPER_bot',//bot username without @
 
