@@ -1,8 +1,8 @@
-module.exports = {
+ module.exports = {
 
 mongoLink:'mongodb+srv://nft:vishu@paid1.qldpv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',//database link
 
-bot_token:'2030955847:AAHhIM-9Jc-rIK69Z-ip4OBXcq0BL4dgZqA',//bot token
+bot_token:'1955327852:AAGt6A5yIDfbfaoZWaMdHp6HHFoWyx29x48',//bot token
 
 bot_name:'LTC_HYPER_bot',//bot username without @
 
